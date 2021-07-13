@@ -1,14 +1,14 @@
-FROM errorshivansh/LionX:latest
+FROM teamvaders/LIONX:latest
 
 #clonning repo 
-RUN git clone https://github.com/TeamLionX/Lion-X.git /root/LionXbot
+RUN git clone https://github.com/TeamLionX/Lion-X/InVade.git /root/LIONX
 
 #working directory 
-WORKDIR /root/LionXbot
+WORKDIR /root/LIONX
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
 
 ENV PATH="/home/userbot/bin:$PATH"
 
-CMD ["python3","-m","LionXbot"]
+CMD ["python3","-m","LIONX"]

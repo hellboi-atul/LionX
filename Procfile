@@ -1,1 +1,1 @@
-worker: bash LionXbot
+worker: bash LIONX

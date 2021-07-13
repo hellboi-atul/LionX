@@ -1,19 +1,19 @@
 {
-  "name": "Lιση-Ж",
-  "description": "The Super Fast Userbot ⚡Made by Python,tlethon ",
-  "logo": "https://telegra.ph/file/0037b894dd31e894b7293.jpg",
+  "name": "ʟɨօռ-Ӽ",
+  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": " ",
     "keywords": [
     "telegram",
     "userbot",
     "plugin",
     "telethon",
-    "LionXbot",
+    "LIONX",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TeamLionX/LionX/",
+  "repository": "https://github.com/TeamLionX/LIONX/",
   "website": "https://github.com/TeamLionX/",
-  "success_url": "https://t.me/Royal_King7",
+  "success_url": "https://t.me/The_LIONX",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -21,7 +21,7 @@
     },
     "YOUR_NAME": {
       "description": "Fill Your Telegram Name. Default Value is Hêll",
-      "value": "『LION』",
+      "value": "『ʟɨօռ-Ӽ』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -35,7 +35,7 @@
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in LionXBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in LIONX. Else Fill ON.",
       "value": "ON",
       "required": false
     },
@@ -45,7 +45,7 @@
       "required": false
     },
     "PM_LOG_ID": {
-      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @missrose_bot",
+      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @Lion_XRoBot",
       "value": "",
       "required": false
     },
@@ -74,10 +74,10 @@
       "value": ""
     },
     "LOGGER_ID": {
-      "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
+      "description": "Create a private channel. And get it's id from @Lion_XRoBot and paste here. Value should start with -100",
       "value": ""
     },
-    "LionXBOT_SESSION": {
+    "LIONXBOT_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
     },
@@ -105,12 +105,12 @@
       "value": ""
     },
     "YOUR_CHANNEL": {
-      "description": "Fill your channel username(without @) to get this displayed on your LionX Alive.",
+      "description": "Fill your channel username(without @) to get this displayed on your LIONX Alive.",
       "value": "",
       "required": false
     },
     "YOUR_GROUP": {
-      "description": "Fill your group username(without @) to get this displayed on your LionX Alive.",
+      "description": "Fill your group username(without @) to get this displayed on your LIONX Alive.",
       "value": "",
       "required": false
     },
