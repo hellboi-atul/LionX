@@ -1,4 +1,4 @@
-FROM teamvaders/LIONX:latest
+FROM TeamLionX/LIONX:latest
 
 #clonning repo 
 RUN git clone https://github.com/TeamLionX/Lion-X/.git /root/LIONX
